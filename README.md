@@ -2,6 +2,8 @@
 
 > Opalescence Dashboard
 
+Note: This check out the backend follow [this link](https://github.com/faraanj/opal-backend/)
+
 [//]: <> 'TODO: Add CI/CD Badges'
 
 ## Setup
